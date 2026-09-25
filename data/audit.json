@@ -1,0 +1,32 @@
+{
+  "source_rows": {
+    "accounts": 3000,
+    "product_footprint": 21000,
+    "engagement_events": 54811,
+    "product_engagement": 21000,
+    "competitors": 11867,
+    "opportunities": 12321
+  },
+  "accounts": 3000,
+  "combinations": 21000,
+  "whitespace": 5948,
+  "strategic": 8375,
+  "bands": {
+    "Very Strong": 83,
+    "Strong": 2665,
+    "Moderate": 5627,
+    "Emerging": 6238,
+    "Not Prioritized": 6387
+  },
+  "max_score": 87.6,
+  "open_pipeline": 87601960796.0,
+  "synthetic_scenarios": 21000,
+  "source_hashes": {
+    "accounts.csv": "4cec52167cdecacdf080951c4daa3e34ad4053048696ccbafea74fb6dcdbcdd7",
+    "competitors.csv": "64a0d2818f5c85643d74c40c6764d09ec61c0ffcde1c7c2b919a0dc384eb0f75",
+    "engagement_events.csv": "9f177110ca06681d4232f3db0e4e12ca88dbcc997461de8d51e5007b310a1aa5",
+    "opportunities.csv": "a1fa6939c66b90116b7d02387f18ce4a41aa5a5e84b810a0ec7f404bba2e49b9",
+    "product_engagement.csv": "84b898c6e601bd5e8f1ada1f05ee4e1faa5b7511a74633caf125ed033d5c8763",
+    "product_footprint.csv": "fa985e6dd03644ca6c78ba1a48f706b31ac9820984cd8949a410553c6352e92d"
+  }
+}
